@@ -1,0 +1,102 @@
+.img {
+  width: 15%;
+}
+
+h3 {
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+}
+
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 100%;
+  color: #40514E;
+}
+
+.h2 {
+  font-weight: normal;
+  padding-bottom: 20px;
+}
+.contact-message{
+  line-height: 2;
+  width: 40%;
+  margin: 40px auto;
+}
+.p {
+  font-size: 1.2rem;
+  line-height: 2;
+}
+
+h1 {
+  margin: 50px auto 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 60px;
+  color: #66BFBF;
+}
+
+h2 {
+  font-size: 1.5rem;
+  color: #66BFBF;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.bottom-container {}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+ hr {
+  border: dotted #EAF6F6 15px ;
+  width: 10%;
+  border-top: none;
+  margin: 100px auto;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.bottom-cloud {
+  position: absolute;
+  bottom: 300px;
+  left: 250px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.football {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.programming {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+p{
+  line-height: 2;
+}
